@@ -46,8 +46,8 @@ function promptUser() {
         },
         {
             type: 'input',
-            name: 'dependancies',
-            message: 'Does this project have any dependancies? What are they?',
+            name:  'dependencies',
+            message: 'Does this project have any dependencies? What are they?',
         },
         {
             type: 'input',

@@ -6,7 +6,7 @@ This application is meant to be a simple README generator, run from the command 
 * [Details](#details)  
        * [Features](#features)  
        * [Technologies](#technologies)  
-       * [Dependancies](#dependancies)  
+       * [Dependencies](#dependencies)  
 * [Installation](#installation)  
 * [Usage](#usage)  
 * [Contributing](#contributing)  
@@ -18,7 +18,7 @@ This application is meant to be a simple README generator, run from the command 
 This project feature license badges from [Shields.io](https://shields.io)  
 ### Technologies  
 This project uses Node to execute from the command line, and Inquirer to prompt for user input that's needed for README generation.  
-### Dependancies  
+### Dependencies  
 Inquirer @8.2.4  
   
 ----  

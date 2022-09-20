@@ -16,8 +16,8 @@ let contents = `## Table of Contents
     contents += `       * [Technologies](#technologies)  
 `;
   }
-  if (data.dependancies) {
-    contents += `       * [Dependancies](#dependancies)  
+  if (data.dependencies) {
+    contents += `       * [Dependencies](#dependencies)  
 `;
   }
   if (data.installation) {
@@ -72,8 +72,8 @@ ${data.technologies}
 `;
   }
   if (data.dependancies) {
-    mdBody += `### Dependancies  
-${data.dependancies}  
+    mdBody += `### Dependencies  
+${data.dependencies}  
   
 ----  
   `;
