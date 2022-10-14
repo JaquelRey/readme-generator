@@ -57,7 +57,7 @@ ${data.description}
   //generate sections and their content (if they exist)
   let mdBody = `----  
 `;
-  if (data.features || data.technologies || data.dependancies) {
+  if (data.features || data.technologies || data.dependencies) {
     mdBody += `## Details  
 `;
   }
@@ -71,7 +71,7 @@ ${data.features}
 ${data.technologies}  
 `;
   }
-  if (data.dependancies) {
+  if (data.dependencies) {
     mdBody += `### Dependencies  
 ${data.dependencies}  
   
