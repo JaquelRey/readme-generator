@@ -1,5 +1,10 @@
 # README Generator  
-[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)  
+[![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
+
+https://user-images.githubusercontent.com/105254479/193715979-32957294-e578-42bf-a717-16b9a89629e4.mp4
+
+
 ## Description  
 This application is meant to be a simple README generator, run from the command line. It allows it's user to quickly generate a fairly comprehensive README, incuding license badges.  
 ## Table of Contents  
